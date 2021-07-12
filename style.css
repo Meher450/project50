@@ -1,0 +1,31 @@
+.image{
+    display: flex;
+    color: rgb(0, 255, 229);;
+    background-color: black;
+}
+
+.whole{ 
+    background-color: rgb(0, 255, 229);
+}
+
+.header1{
+    display: flex;
+    align-self: center;
+}
+
+.camel{
+    display: flex;
+    justify-content: left;
+}
+
+.content1{
+    display: flex;
+    color:white;
+    justify-content:center;
+    align-self:center;
+}
+
+.heading{
+    background-color: rgb(0, 255, 229);
+    color: rgb(0, 0, 0);
+}
